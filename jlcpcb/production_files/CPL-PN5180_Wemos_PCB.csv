@@ -1,0 +1,4 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,106.172,-86.36,0.0,top
+PN5180,Conn_01x13_Female,PinHeader_1x13_P2.54mm_Vertical,89.154,-116.825,180.0,top
+U1,WeMos_D1_mini,WEMOS_D1_mini_light,94.465,-101.6,0.0,top

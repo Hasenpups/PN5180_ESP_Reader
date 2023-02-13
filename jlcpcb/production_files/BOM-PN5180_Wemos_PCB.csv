@@ -1,0 +1,8 @@
+Comment,Designator,Footprint,LCSC
+WS2812B,D1,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,
+MountingHole,H3,MountingHole_3.2mm_M3_DIN965_Pad,
+MountingHole,H2,MountingHole_3.2mm_M3_DIN965_Pad,
+MountingHole,H1,MountingHole_3.2mm_M3_DIN965_Pad,
+Conn_01x13_Female,PN5180,PinHeader_1x13_P2.54mm_Vertical,
+WeMos_D1_mini,U1,WEMOS_D1_mini_light,
+MountingHole,H4,MountingHole_3.2mm_M3_DIN965_Pad,
