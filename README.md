@@ -21,3 +21,9 @@ This reader uses a PN5180 RFID reader and a Wemos D1 mini to read RFID tags like
 <img src="./Images/IMG_4033.JPEG" width="50%" height="50%">
 <img src="./Images/IMG_4035.JPEG" width="50%" height="50%">
 <img src="./Images/IMG_4034.JPEG" width="50%" height="50%">
+
+# Used hardware
+- 1 x PN5180 reader (https://www.amazon.de/dp/B0BFGWS7MZ)
+- 1 x Wemos D1 mini (https://www.amazon.de/AZDelivery-NodeMCU-ESP8266EX-kompatibel-inklusive/dp/B08BTYHJM1)
+- 1 x 10x3mm magnet (https://www.amazon.de/Temporaryt-Neodym-Magnete-Aufbewahrungs-K%C3%BChlschrank/dp/B07DNBXBWQ)
+- 4 x M3x6 screw
