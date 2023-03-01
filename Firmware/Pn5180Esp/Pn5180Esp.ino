@@ -1,8 +1,6 @@
 /**************************************************
   Includes
 **************************************************/
-#include <PN5180.h>
-#include <PN5180ISO14443.h>
 #include <PN5180ISO15693.h>
 #include <Adafruit_NeoPixel.h>
 
